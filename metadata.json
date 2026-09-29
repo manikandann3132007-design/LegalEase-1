@@ -1,0 +1,6 @@
+{
+  "name": "LegalEase - AI Legal Document Generator",
+  "description": "Generate, customize, and export formal legal agreements, NDAs, employment contracts, and service agreements powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
